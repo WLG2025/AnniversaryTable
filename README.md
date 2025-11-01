@@ -1,2 +1,2 @@
 # AnniversaryTable
-show some anniversary days
+show some anniversary dates
